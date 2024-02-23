@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+    background-color:#F0F7F8 ;
+}
+
+header {
+    background-color:#015666 ;
+}
+h1{
+   color: #006064;
+   text-align: center;
+}
+
+img {
+    width: 229px;
+    height: 320px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 24px ;
+    border: white solid 3px;
+    padding: 6px;
+}
+.rrr {
+    font-size: 26px;
+}
+
+.tt {
+       margin-left:220px;
+}
+
+.hy {
+    margin-left: 230px;
+}
+
+footer {
+    background-color: #015666;
+}
+
+.ll {
+    color: white;
+    padding:50px ;
+}
